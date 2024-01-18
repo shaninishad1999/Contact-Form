@@ -1,2 +1,2 @@
 # Contact-Form
-I developed Contact Form using html, css and web3form. 
+I developed this contact form using html, css and web3form.
